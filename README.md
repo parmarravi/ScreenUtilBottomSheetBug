@@ -1,4 +1,4 @@
-# sam
+# sample code for bug in screenUtil lib
 
 A new Flutter project.
 
